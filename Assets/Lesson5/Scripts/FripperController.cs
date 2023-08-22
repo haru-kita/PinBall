@@ -8,7 +8,7 @@ public class FripperController : MonoBehaviour
         private HingeJoint myHingeJoint;
 
         //初期の傾き
-        private float defaultAngle = 20.0f;
+        private float defaultAngle = 10.0f;
         //弾いた時の傾き
         private float flickAngle = -20.0f;
 
